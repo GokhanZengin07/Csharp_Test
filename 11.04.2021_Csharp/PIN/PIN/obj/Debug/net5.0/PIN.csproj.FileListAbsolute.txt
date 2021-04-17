@@ -1,0 +1,16 @@
+C:\Github\CsharpEgitim\11.04.2021_Csharp\PIN\PIN\bin\Debug\net5.0\PIN.exe
+C:\Github\CsharpEgitim\11.04.2021_Csharp\PIN\PIN\bin\Debug\net5.0\PIN.deps.json
+C:\Github\CsharpEgitim\11.04.2021_Csharp\PIN\PIN\bin\Debug\net5.0\PIN.runtimeconfig.json
+C:\Github\CsharpEgitim\11.04.2021_Csharp\PIN\PIN\bin\Debug\net5.0\PIN.runtimeconfig.dev.json
+C:\Github\CsharpEgitim\11.04.2021_Csharp\PIN\PIN\bin\Debug\net5.0\PIN.dll
+C:\Github\CsharpEgitim\11.04.2021_Csharp\PIN\PIN\bin\Debug\net5.0\ref\PIN.dll
+C:\Github\CsharpEgitim\11.04.2021_Csharp\PIN\PIN\bin\Debug\net5.0\PIN.pdb
+C:\Github\CsharpEgitim\11.04.2021_Csharp\PIN\PIN\obj\Debug\net5.0\PIN.csprojAssemblyReference.cache
+C:\Github\CsharpEgitim\11.04.2021_Csharp\PIN\PIN\obj\Debug\net5.0\PIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\CsharpEgitim\11.04.2021_Csharp\PIN\PIN\obj\Debug\net5.0\PIN.AssemblyInfoInputs.cache
+C:\Github\CsharpEgitim\11.04.2021_Csharp\PIN\PIN\obj\Debug\net5.0\PIN.AssemblyInfo.cs
+C:\Github\CsharpEgitim\11.04.2021_Csharp\PIN\PIN\obj\Debug\net5.0\PIN.csproj.CoreCompileInputs.cache
+C:\Github\CsharpEgitim\11.04.2021_Csharp\PIN\PIN\obj\Debug\net5.0\PIN.dll
+C:\Github\CsharpEgitim\11.04.2021_Csharp\PIN\PIN\obj\Debug\net5.0\ref\PIN.dll
+C:\Github\CsharpEgitim\11.04.2021_Csharp\PIN\PIN\obj\Debug\net5.0\PIN.pdb
+C:\Github\CsharpEgitim\11.04.2021_Csharp\PIN\PIN\obj\Debug\net5.0\PIN.genruntimeconfig.cache

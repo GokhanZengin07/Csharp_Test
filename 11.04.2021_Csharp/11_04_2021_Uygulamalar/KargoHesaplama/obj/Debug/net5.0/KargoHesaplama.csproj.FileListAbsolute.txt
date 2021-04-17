@@ -1,0 +1,16 @@
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11_04_2021_Uygulamalar\KargoHesaplama\bin\Debug\net5.0\KargoHesaplama.exe
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11_04_2021_Uygulamalar\KargoHesaplama\bin\Debug\net5.0\KargoHesaplama.deps.json
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11_04_2021_Uygulamalar\KargoHesaplama\bin\Debug\net5.0\KargoHesaplama.runtimeconfig.json
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11_04_2021_Uygulamalar\KargoHesaplama\bin\Debug\net5.0\KargoHesaplama.runtimeconfig.dev.json
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11_04_2021_Uygulamalar\KargoHesaplama\bin\Debug\net5.0\KargoHesaplama.dll
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11_04_2021_Uygulamalar\KargoHesaplama\bin\Debug\net5.0\ref\KargoHesaplama.dll
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11_04_2021_Uygulamalar\KargoHesaplama\bin\Debug\net5.0\KargoHesaplama.pdb
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11_04_2021_Uygulamalar\KargoHesaplama\obj\Debug\net5.0\KargoHesaplama.csprojAssemblyReference.cache
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11_04_2021_Uygulamalar\KargoHesaplama\obj\Debug\net5.0\KargoHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11_04_2021_Uygulamalar\KargoHesaplama\obj\Debug\net5.0\KargoHesaplama.AssemblyInfoInputs.cache
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11_04_2021_Uygulamalar\KargoHesaplama\obj\Debug\net5.0\KargoHesaplama.AssemblyInfo.cs
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11_04_2021_Uygulamalar\KargoHesaplama\obj\Debug\net5.0\KargoHesaplama.csproj.CoreCompileInputs.cache
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11_04_2021_Uygulamalar\KargoHesaplama\obj\Debug\net5.0\KargoHesaplama.dll
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11_04_2021_Uygulamalar\KargoHesaplama\obj\Debug\net5.0\ref\KargoHesaplama.dll
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11_04_2021_Uygulamalar\KargoHesaplama\obj\Debug\net5.0\KargoHesaplama.pdb
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11_04_2021_Uygulamalar\KargoHesaplama\obj\Debug\net5.0\KargoHesaplama.genruntimeconfig.cache

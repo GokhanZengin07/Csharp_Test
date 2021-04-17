@@ -1,0 +1,16 @@
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11.04.2021_PrimHesaplama\CalisanPrimHesaplama\bin\Debug\net5.0\CalisanPrimHesaplama.exe
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11.04.2021_PrimHesaplama\CalisanPrimHesaplama\bin\Debug\net5.0\CalisanPrimHesaplama.deps.json
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11.04.2021_PrimHesaplama\CalisanPrimHesaplama\bin\Debug\net5.0\CalisanPrimHesaplama.runtimeconfig.json
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11.04.2021_PrimHesaplama\CalisanPrimHesaplama\bin\Debug\net5.0\CalisanPrimHesaplama.runtimeconfig.dev.json
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11.04.2021_PrimHesaplama\CalisanPrimHesaplama\bin\Debug\net5.0\CalisanPrimHesaplama.dll
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11.04.2021_PrimHesaplama\CalisanPrimHesaplama\bin\Debug\net5.0\ref\CalisanPrimHesaplama.dll
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11.04.2021_PrimHesaplama\CalisanPrimHesaplama\bin\Debug\net5.0\CalisanPrimHesaplama.pdb
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11.04.2021_PrimHesaplama\CalisanPrimHesaplama\obj\Debug\net5.0\CalisanPrimHesaplama.csprojAssemblyReference.cache
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11.04.2021_PrimHesaplama\CalisanPrimHesaplama\obj\Debug\net5.0\CalisanPrimHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11.04.2021_PrimHesaplama\CalisanPrimHesaplama\obj\Debug\net5.0\CalisanPrimHesaplama.AssemblyInfoInputs.cache
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11.04.2021_PrimHesaplama\CalisanPrimHesaplama\obj\Debug\net5.0\CalisanPrimHesaplama.AssemblyInfo.cs
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11.04.2021_PrimHesaplama\CalisanPrimHesaplama\obj\Debug\net5.0\CalisanPrimHesaplama.csproj.CoreCompileInputs.cache
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11.04.2021_PrimHesaplama\CalisanPrimHesaplama\obj\Debug\net5.0\CalisanPrimHesaplama.dll
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11.04.2021_PrimHesaplama\CalisanPrimHesaplama\obj\Debug\net5.0\ref\CalisanPrimHesaplama.dll
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11.04.2021_PrimHesaplama\CalisanPrimHesaplama\obj\Debug\net5.0\CalisanPrimHesaplama.pdb
+C:\Github\CsharpEgitim\11.04.2021_Csharp\11.04.2021_PrimHesaplama\CalisanPrimHesaplama\obj\Debug\net5.0\CalisanPrimHesaplama.genruntimeconfig.cache
