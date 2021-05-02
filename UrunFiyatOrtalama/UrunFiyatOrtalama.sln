@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrunFiyatOrtalama", "UrunFiyatOrtalama\UrunFiyatOrtalama.csproj", "{90393FA0-0169-4390-9780-66C637340C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{84606B9A-6D15-4790-8106-04D539D8842E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90393FA0-0169-4390-9780-66C637340C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90393FA0-0169-4390-9780-66C637340C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90393FA0-0169-4390-9780-66C637340C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90393FA0-0169-4390-9780-66C637340C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84606B9A-6D15-4790-8106-04D539D8842E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84606B9A-6D15-4790-8106-04D539D8842E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84606B9A-6D15-4790-8106-04D539D8842E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84606B9A-6D15-4790-8106-04D539D8842E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A2B6AEB-FC6F-4152-A7E8-0D78903DEC2D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Github\CsharpEgitim\Alican\Alican\bin\Debug\net5.0\Alican.exe
+C:\Github\CsharpEgitim\Alican\Alican\bin\Debug\net5.0\Alican.deps.json
+C:\Github\CsharpEgitim\Alican\Alican\bin\Debug\net5.0\Alican.runtimeconfig.json
+C:\Github\CsharpEgitim\Alican\Alican\bin\Debug\net5.0\Alican.runtimeconfig.dev.json
+C:\Github\CsharpEgitim\Alican\Alican\bin\Debug\net5.0\Alican.dll
+C:\Github\CsharpEgitim\Alican\Alican\bin\Debug\net5.0\ref\Alican.dll
+C:\Github\CsharpEgitim\Alican\Alican\bin\Debug\net5.0\Alican.pdb
+C:\Github\CsharpEgitim\Alican\Alican\obj\Debug\net5.0\Alican.csprojAssemblyReference.cache
+C:\Github\CsharpEgitim\Alican\Alican\obj\Debug\net5.0\Alican.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\CsharpEgitim\Alican\Alican\obj\Debug\net5.0\Alican.AssemblyInfoInputs.cache
+C:\Github\CsharpEgitim\Alican\Alican\obj\Debug\net5.0\Alican.AssemblyInfo.cs
+C:\Github\CsharpEgitim\Alican\Alican\obj\Debug\net5.0\Alican.csproj.CoreCompileInputs.cache
+C:\Github\CsharpEgitim\Alican\Alican\obj\Debug\net5.0\Alican.dll
+C:\Github\CsharpEgitim\Alican\Alican\obj\Debug\net5.0\ref\Alican.dll
+C:\Github\CsharpEgitim\Alican\Alican\obj\Debug\net5.0\Alican.pdb
+C:\Github\CsharpEgitim\Alican\Alican\obj\Debug\net5.0\Alican.genruntimeconfig.cache

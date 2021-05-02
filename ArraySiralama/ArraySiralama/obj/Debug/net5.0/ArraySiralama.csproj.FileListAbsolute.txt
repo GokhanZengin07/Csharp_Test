@@ -1,0 +1,16 @@
+C:\Github\CsharpEgitim\ArraySiralama\ArraySiralama\bin\Debug\net5.0\ArraySiralama.exe
+C:\Github\CsharpEgitim\ArraySiralama\ArraySiralama\bin\Debug\net5.0\ArraySiralama.deps.json
+C:\Github\CsharpEgitim\ArraySiralama\ArraySiralama\bin\Debug\net5.0\ArraySiralama.runtimeconfig.json
+C:\Github\CsharpEgitim\ArraySiralama\ArraySiralama\bin\Debug\net5.0\ArraySiralama.runtimeconfig.dev.json
+C:\Github\CsharpEgitim\ArraySiralama\ArraySiralama\bin\Debug\net5.0\ArraySiralama.dll
+C:\Github\CsharpEgitim\ArraySiralama\ArraySiralama\bin\Debug\net5.0\ref\ArraySiralama.dll
+C:\Github\CsharpEgitim\ArraySiralama\ArraySiralama\bin\Debug\net5.0\ArraySiralama.pdb
+C:\Github\CsharpEgitim\ArraySiralama\ArraySiralama\obj\Debug\net5.0\ArraySiralama.csprojAssemblyReference.cache
+C:\Github\CsharpEgitim\ArraySiralama\ArraySiralama\obj\Debug\net5.0\ArraySiralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\CsharpEgitim\ArraySiralama\ArraySiralama\obj\Debug\net5.0\ArraySiralama.AssemblyInfoInputs.cache
+C:\Github\CsharpEgitim\ArraySiralama\ArraySiralama\obj\Debug\net5.0\ArraySiralama.AssemblyInfo.cs
+C:\Github\CsharpEgitim\ArraySiralama\ArraySiralama\obj\Debug\net5.0\ArraySiralama.csproj.CoreCompileInputs.cache
+C:\Github\CsharpEgitim\ArraySiralama\ArraySiralama\obj\Debug\net5.0\ArraySiralama.dll
+C:\Github\CsharpEgitim\ArraySiralama\ArraySiralama\obj\Debug\net5.0\ref\ArraySiralama.dll
+C:\Github\CsharpEgitim\ArraySiralama\ArraySiralama\obj\Debug\net5.0\ArraySiralama.pdb
+C:\Github\CsharpEgitim\ArraySiralama\ArraySiralama\obj\Debug\net5.0\ArraySiralama.genruntimeconfig.cache
