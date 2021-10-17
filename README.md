@@ -1,2 +1,2 @@
 # CsharpEgitim_New
- Deneme
+Alıştırmalar
